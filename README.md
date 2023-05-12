@@ -10,7 +10,7 @@
 
 - 📚 I'm currently learning: React.js.
 
-- 👤 One of my passions is **space, planets, and stars.🌠**
+- 👤 My passions: **space, planets, and stars.🌠**
 
 - ⚡ Fun fact: **I don't drink coffee.☕**
 
