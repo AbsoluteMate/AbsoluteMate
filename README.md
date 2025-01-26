@@ -37,13 +37,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2023 - To: 24 January 2025
+From: 10 April 2023 - To: 25 January 2025
 
-Total Time: 1,678 hrs 22 mins
+Total Time: 1,678 hrs 34 mins
 
 PHP                        869 hrs 16 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.79 %
 Blade Template             333 hrs 8 mins  ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.85 %
-JavaScript                 275 hrs 3 mins  ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.39 %
+JavaScript                 275 hrs 15 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.40 %
 Smarty                     100 hrs 6 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.96 %
 CSS                        18 hrs 43 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.12 %
 HTML                       17 hrs 59 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.07 %
