@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2023 - To: 04 April 2025
+From: 10 April 2023 - To: 05 April 2025
 
 Total Time: 1,865 hrs 45 mins
 
